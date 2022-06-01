@@ -55,6 +55,7 @@ footer{
     min-height: 2rem;
     background-color: azure;
     display: flex;
+    justify-content: space-evenly;
 }
 
 .footerlinks{
@@ -65,3 +66,7 @@ footer{
     margin: 1rem;
 }
 
+footer p{
+    font-size: 0.8rem;
+
+}
